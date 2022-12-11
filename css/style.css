@@ -1,0 +1,45 @@
+body {
+  background-image: url("walp.png");
+}
+
+.clock {
+  position: relative;
+  text-align: center;
+  color: red;
+  font-size: 72px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  letter-spacing: 11px;
+}
+
+.text1 {
+  position: relative;
+  text-align: center;
+  color: red;
+  font-size: 62px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  letter-spacing: 11px;
+}
+
+.text2 {
+  position: relative;
+  text-align: center;
+  color: red;
+  font-size: 42px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  letter-spacing: 7px;
+  margin-right: 111px;
+  margin-left: 111px;
+}
+
+img {
+  margin-top: 120px;
+  width: 17%;
+}
+
+#myName{
+  color: rgb(163, 198, 65);
+}
+
+#myClock {
+  color: red;
+}
